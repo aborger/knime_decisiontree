@@ -1,7 +1,7 @@
 # knime_decisiontree
 
 Using the following [article](https://blogs.sap.com/2015/08/21/visualizing-a-decision-tree-from-hana-pal-using-d3js/) a PMML (XML) parser was made in Node.js to convert the output of a decision tree model in KNIME (PMML file) to a JSON file.
-The JSON file can be used to visualize the decision tree using D3.js. A demo can be found [here](https://arvidlb.github.io/knime_decisiontree/index.html)
+The JSON file can be used to visualize the decision tree using D3.js.
 
 # Contents
 
